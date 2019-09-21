@@ -1,11 +1,19 @@
+main    {
+    border: 3px solid greenyellow; 
+    fill: darkcyan;
+    width: 630px;
+    margin: 23px;
+    padding: 8px;
+}
+
 body    {
     border: 2px dotted blue;
     margin: 6px;
+    font-family: 'Rajdhani', sans-serif;
+     background: teal;
+     background: cyan;
 }
 
-main    {
-    border: 3px solid greenyellow;
-    width: 525px;
-    margin: 23px;
-    padding: 8px;
+h1  {
+    font-family: 'Turret Road', cursive;
 }
