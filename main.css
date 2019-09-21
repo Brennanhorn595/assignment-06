@@ -16,4 +16,6 @@ body    {
 
 h1  {
     font-family: 'Turret Road', cursive;
+    font-size: 16pt;
+    line-height: 32pt;
 }
